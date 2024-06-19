@@ -1,0 +1,6 @@
+[submodule "mavs"]
+	path = mavs
+	url = https://github.com/AndreiSpiru/mavs.git
+[submodule "OpenPCDet"]
+	path = OpenPCDet
+	url = https://github.com/AndreiSpiru/OpenPCDet.git
